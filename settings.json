@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "trio002.aternos.me",
+    "port": 52887,
     "version": "1.21.1"
   },
   "position": {
